@@ -1312,4 +1312,4 @@ async def change_message():
     await client.change_presence(activity=discord.Game(next(status)))
 
 
-client.run(token)
+client.run(NzkzNDAwMTAyNzgxODQ1NTI0.X-rtbQ.i7qjFwjqr5soGkAcPTWNRrJRFp0)
